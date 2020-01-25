@@ -12,7 +12,9 @@
     "name": "typicode"
   },
   "auth": {
-    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+    "tokens": [
+        "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1Nzk5NTQxNzIsImp0aSI6IlJ1bXhGa2o4TG16SWJ2eGNUcmJQRzl6cXlpYUFFSWQyN3hiVUJtQUlySTA9IiwiaXNzIjoiSm9iUm91dGVyIiwibmJmIjoxNTc5OTU0MTcyLCJleHAiOjE1Nzk5NTQ3NzIsImRhdGEiOnsidXNlcm5hbWUiOiJXZWJzZXJ2aWNlSlJFIn19.EqbfKlC9J1QETZUNztrs3aRES9rC_TEHxllg8rFx7Pw"
+    ]
   },
   "incidents": [ 
      { 
