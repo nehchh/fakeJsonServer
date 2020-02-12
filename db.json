@@ -7,7 +7,7 @@
     ]
   },
   "processes":  {
-    "processes":[ 
+    "processes": [ 
      { 
         "EmpfaengerId":1,
         "EmpfaengerName":"RS_TAGESPOST",
