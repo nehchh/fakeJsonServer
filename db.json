@@ -6,7 +6,9 @@
         "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1Nzk5NTQxNzIsImp0aSI6IlJ1bXhGa2o4TG16SWJ2eGNUcmJQRzl6cXlpYUFFSWQyN3hiVUJtQUlySTA9IiwiaXNzIjoiSm9iUm91dGVyIiwibmJmIjoxNTc5OTU0MTcyLCJleHAiOjE1Nzk5NTQ3NzIsImRhdGEiOnsidXNlcm5hbWUiOiJXZWJzZXJ2aWNlSlJFIn19.EqbfKlC9J1QETZUNztrs3aRES9rC_TEHxllg8rFx7Pw"
     ]
   },
-  "incidents": [ 
+  "incidents": 
+    "processes": {
+    [ 
      { 
         "EmpfaengerId":1,
         "EmpfaengerName":"RS_TAGESPOST",
@@ -98,4 +100,5 @@
         "Prozessname":"Kundenanfrage - VersAusgl - Allgemeine Anfrage"
      }
   ]
+  }
 }
