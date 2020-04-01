@@ -11,7 +11,7 @@
         "pk_id":1,
         "ptyp":"Abgang",
         "pauspraegung":"Tod",
-        "processname":"STANDARD_PROCESS"
+        "processname":"STANDARD_PROCESS",
         "process_description":"Abgang - Tod"
      },
      { 
@@ -19,7 +19,7 @@
         "pk_id":2,
         "ptyp":"Eingang",
         "pauspraegung":"Leistungsbeginn",
-        "processname":"STANDARD_PROCESS"
+        "processname":"STANDARD_PROCESS",
         "process_description":"Eingang - Leistungsbeginn"
      },
      { 
@@ -27,9 +27,9 @@
         "pk_id":3,
         "ptyp":"Heilverfahren",
         "pauspraegung":"Heilverfahren",
-        "processname":"SAW_HEILVERFAHREN"
+        "processname":"SAW_HEILVERFAHREN",
         "process_description":"SAW_HEILVERFAHREN - SAW_HEILVERFAHREN"
-     },
+     }
   ]
   }
 }
