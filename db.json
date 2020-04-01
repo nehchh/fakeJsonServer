@@ -25,8 +25,8 @@
      { 
         "owner":"RS",
         "pk_id":3,
-        "ptyp":"null",
-        "pauspraegung":"null",
+        "ptyp":null,
+        "pauspraegung":null,
         "processname":"SAW_HEILVERFAHREN",
         "process_description":"Heilverfahren"
      }
