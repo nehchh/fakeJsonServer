@@ -7,7 +7,7 @@
   "processes":  {
     "processes": [ 
      { 
-        "Owner":"RS",
+        "owner":"RS",
         "pk_id":1,
         "ptyp":"Abgang",
         "pauspraegung":"Tod",
@@ -15,7 +15,7 @@
         "process_description":"Abgang - Tod"
      },
      { 
-        "Owner":"RS",
+        "owner":"RS",
         "pk_id":2,
         "ptyp":"Eingang",
         "pauspraegung":"Leistungsbeginn",
@@ -23,7 +23,7 @@
         "process_description":"Eingang - Leistungsbeginn"
      },
      { 
-        "Owner":"RS",
+        "owner":"RS",
         "pk_id":3,
         "ptyp":"Heilverfahren",
         "pauspraegung":"Heilverfahren",
