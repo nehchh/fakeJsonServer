@@ -25,10 +25,10 @@
      { 
         "owner":"RS",
         "pk_id":3,
-        "ptyp":"Heilverfahren",
+        "ptyp":"null",
         "pauspraegung":"null",
-        "processname":"null",
-        "process_description":"SAW_HEILVERFAHREN - SAW_HEILVERFAHREN"
+        "processname":"SAW_HEILVERFAHREN",
+        "process_description":"Heilverfahren"
      }
   ]
   }
