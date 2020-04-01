@@ -7,95 +7,29 @@
   "processes":  {
     "processes": [ 
      { 
-        "EmpfaengerId":1,
-        "EmpfaengerName":"RS_TAGESPOST",
-        "Owner":"RS  ",
-        "pk_id":15,
-        "Prozesstyp":"Abgang",
-        "Prozessauspraegung":"Tod",
-        "Prozessname":"Abgang - Tod"
+        "Owner":"RS",
+        "pk_id":1,
+        "ptyp":"Abgang",
+        "pauspraegung":"Tod",
+        "processname":"STANDARD_PROCESS"
+        "process_description":"Abgang - Tod"
      },
      { 
-        "EmpfaengerId":1,
-        "EmpfaengerName":"RS_TAGESPOST",
-        "Owner":"RS  ",
-        "pk_id":16,
-        "Prozesstyp":"Leistung",
-        "Prozessauspraegung":"Altersrente",
-        "Prozessname":"Leistung - Altersrente"
+        "Owner":"RS",
+        "pk_id":2,
+        "ptyp":"Eingang",
+        "pauspraegung":"Leistungsbeginn",
+        "processname":"STANDARD_PROCESS"
+        "process_description":"Eingang - Leistungsbeginn"
      },
      { 
-        "EmpfaengerId":2,
-        "EmpfaengerName":"BA_TAGESPOST",
-        "Owner":"BA  ",
-        "pk_id":19,
-        "Prozesstyp":"Verwaltung",
-        "Prozessauspraegung":"Firmenabrechnung",
-        "Prozessname":"Verwaltung - Firmenabrechnung"
+        "Owner":"RS",
+        "pk_id":3,
+        "ptyp":"Heilverfahren",
+        "pauspraegung":"Heilverfahren",
+        "processname":"SAW_HEILVERFAHREN"
+        "process_description":"SAW_HEILVERFAHREN - SAW_HEILVERFAHREN"
      },
-     { 
-        "EmpfaengerId":2,
-        "EmpfaengerName":"BA_TAGESPOST",
-        "Owner":"BA  ",
-        "pk_id":22,
-        "Prozesstyp":"Kontenbearbeitung",
-        "Prozessauspraegung":"Einzelversicherte",
-        "Prozessname":"Kontenbearbeitung - Einzelversicherte"
-     },
-     { 
-        "EmpfaengerId":2,
-        "EmpfaengerName":"BA_TAGESPOST",
-        "Owner":"BA  ",
-        "pk_id":23,
-        "Prozesstyp":"Kontenbearbeitung",
-        "Prozessauspraegung":"Firmen",
-        "Prozessname":"Kontenbearbeitung - Firmen"
-     },
-     { 
-        "EmpfaengerId":3,
-        "EmpfaengerName":"VS_TAGESPOST",
-        "Owner":"VS  ",
-        "pk_id":20,
-        "Prozesstyp":"Änderung",
-        "Prozessauspraegung":"Personendaten",
-        "Prozessname":"Änderung - Personendaten"
-     },
-     { 
-        "EmpfaengerId":3,
-        "EmpfaengerName":"VS_TAGESPOST",
-        "Owner":"VS  ",
-        "pk_id":21,
-        "Prozesstyp":"Änderung",
-        "Prozessauspraegung":"Beitrags- \/ Zahlweisenänderung",
-        "Prozessname":"Änderung - Beitrags- \/ Zahlweisenänderung"
-     },
-     { 
-        "EmpfaengerId":4,
-        "EmpfaengerName":"SAW_VERSAUSGL",
-        "Owner":"SAW ",
-        "pk_id":17,
-        "Prozesstyp":"Kundenanfrage",
-        "Prozessauspraegung":"VersAusgl - Allgemeine Anfrage",
-        "Prozessname":"Kundenanfrage - VersAusgl - Allgemeine Anfrage"
-     },
-     { 
-        "EmpfaengerId":4,
-        "EmpfaengerName":"SAW_VERSAUSGL",
-        "Owner":"SAW ",
-        "pk_id":18,
-        "Prozesstyp":"Leistung",
-        "Prozessauspraegung":"BU\/EM - Prüfung \/ Festsetzung",
-        "Prozessname":"Leistung - BU\/EM - Prüfung \/ Festsetzung"
-     },
-     { 
-        "EmpfaengerId":5,
-        "EmpfaengerName":"SAW_BU",
-        "Owner":"SAW ",
-        "pk_id":17,
-        "Prozesstyp":"Kundenanfrage",
-        "Prozessauspraegung":"VersAusgl - Allgemeine Anfrage",
-        "Prozessname":"Kundenanfrage - VersAusgl - Allgemeine Anfrage"
-     }
   ]
   }
 }
